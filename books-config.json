@@ -1,9 +1,10 @@
 {
-  "version": 2,
+  "version": 3,
   "overrides": {
     "book-santa-claus": "live",
     "book-christmas-carol": "live",
-    "book-haunted-man": "live"
+    "book-haunted-man": "live",
+    "book-machine-stops": "hidden"
   },
   "announcement": {
     "id": "christmas-2026",
