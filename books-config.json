@@ -1,1 +1,12 @@
-{"version": 1, "overrides": {}}
+{
+  "version": 2,
+  "overrides": {
+    "book-santa-claus": "live",
+    "book-christmas-carol": "live",
+    "book-haunted-man": "live"
+  },
+  "announcement": {
+    "id": "christmas-2026",
+    "message": "Three new Christmas stories are free to read, one for every level."
+  }
+}
